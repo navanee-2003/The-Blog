@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "The Shakespeare blog",
+      "body": "The Shakespeare blog contains up to date articles about Shakespeare’s works, his world, and his plays in performance. Started in 2011, there are now hundreds of posts to choose from, and in 2016 it was looked at over 230,000 times. You can browse by choosing a category from the list on the right.\nI’m particularly pleased to announce the publication of The Story of the Shakespeare Club of Stratford-upon-Avon 1824-2016, which I have researched and written with Susan Brock. It’s far more than just the history of the Club, telling the story of how Stratford became the worldwide centre of Shakespeare performance and celebration, and focusing on the people who achieved it. Click on the link to find out more.\n\nListening to the Audience now contains links to a series of clips of audio recordings I’ve made on several productions of Hamlet as a first step in my project to gather memories of Shakespeare in performance.",
+      "author": "Willam Shakespeare",
+      "id": 1
+    },
+    {
+      "title": "The People's Historian",
+      "body": "A radical relativist in E H Carr announced, “When you read the historian, always listen out for buzzing. If you detect none, either you are tone deaf or your historian is a dull dog.” [1] This imperative commences the age of ideology in historical writing. And surely it has evolved to become more discordant, even after Fukuyama’s much celebrated polemics which claimed- The End of History. [2] Every Historian agrees that objective history is not possible, but even then subjectivity of thoughts is always denounced for what suits us. Some of us may not even bother to read Marx, because he is still mockingly a Marxist, and who all should be nailed in a coffin. But still we may be decent enough by civilizational compulsions to admit that Marxism is also a historical interpretation.\n\nMarxist Historiography in Modern Indian History\nMarxist historiography for modern Indian history developed through the pioneering works of Rajni Palme Dutt (RPD) and A R Desai. [7] They drew heavily on Marx’s analysis of colonialism vis-a-vis capitalism and the prominent role of the leadership of bourgeoisie. We may pick up RPD for serving our purpose, because A R Desai with his social analysis somehow remains embedded in the same tradition. I will examine five major issues which remained the development forces and somehow corollaries of the Indian freedom struggle- Indian Nationalism, Indian National Congress, Gandhiji, and legacy of the freedom struggle. And accompany these issues with a Left critique starting from RPD and ending with Bipan Chandra. For an alleviation of analysis, I selectively propose RPD, for his ‘India To- Day’(1940) is now essentially a Marxist classic in Indian case. Then we can move simultaneously to EMS Namboodiripad’s ‘History of Indian Freedom Struggle’ (1986) and Bipan Chandra’s ‘Indian National Movement: The Long term Dynamics’ (1988). The significance of the selection of these three texts will be appropriated in the due course. I would also engage Sumit Sarkar’s ‘Modern India 1885-1947’ (1983), but not in the constructed framework, but for a legitimate support of the arguments.\n",
+      "author": "Bipan Chandra",
+      "id": 2
+    },
+    {
+      "title": "The Ocean of Churn",
+      "body": "Much of human history has played itself out along the rim of the Indian Ocean. In a first-of-its-kind attempt, bestselling author Sanjeev Sanyal tells the history of this significant region, which stretches across East Africa, the Middle East and the Indian subcontinent to South East Asia and Australia. He narrates a fascinating tale about the earliest human migrations out of Africa and the great cities of Angkor and Vijayanagar; medieval Arab empires and Chinese ‘treasure fleets’; the rivalries of European colonial powers and a new dawn.\n\nSanjeev explores remote archaeological sites, ancient inscriptions, maritime trading networks and half-forgotten oral histories, to make exciting revelations. In his inimitable style, he draws upon existing and new evidence to challenge well-established claims about famous historical characters and the flow of history. Adventurers, merchants, explorers, monks, swashbuckling pirates, revolutionaries and warrior princesses populate this colourful and multifaceted narrative.\n\nThe Ocean of Churn takes the reader on an amazing journey through medieval geopolitics and eyewitness accounts of long-lost cities to the latest genetic discoveries about human origins, bringing alive a region that has defined civilization from the very beginning.",
+      "author": "Sanjeev Sanyal",
+      "id": 3
+    },
+    {
+      "title": "Bhaja Govindam",
+      "body": "“Bhaja Govindam” is a hymn of 31 stanzas, into which Adi Sankara has packed the substance of Vedantic wisdom, dressing it up with a popular appeal and setting the truth of the oneness of knowledge and devotion “to melodious music that delights the ear.” The way of devotion, urges Rajaji, is not different from the way of knowledge, though, as he adds, “the learned employ this distinction to emphasize a particular thesis, on which they discourse in different contexts.” Mature intelligence, lodged securely in the heart, becomes wisdom; wisdom integrated with life and issuing out in action becomes devotion, he explains. “Knowledge that “does not get transformed into devotion” is “useless tinsel”. “Bhaja Govindam” is an inimitable, eloquent expression both of the heights of delight, to which true devotion could rise and of the profundities of wisdom, that lie hidden in the utterances of illumined devotion.",
+      "author": "C.Rajagopalachari",
+      "id": 4
+    }
+  ]
+}
