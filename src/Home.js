@@ -2,7 +2,7 @@ import BlogList from "./BlogList";
 import useFetch from "./useFetch";
 const Home = () => {
 
-    const {data: blogs, isPending, error} = useFetch('http://localhost:3002/blogs');
+    const {data: blogs, isPending, error} = useFetch('https://blog-data-sample.herokuapp.com/blogs');
 
     // const handleDelete = (id) => {
     //   const newBlogs = blogs.filter(blog => blog.id !== id);
