@@ -4,11 +4,11 @@ import useFetch from "./useFetch";
 const BlogDetails = () => {
 
     const { id } = useParams();
-    const { data:blog, isPending, error } = useFetch('http://localhost:3002/blogs/' + id);
+    const { data:blog, isPending, error } = useFetch('https://blog-data-sample.herokuapp.com/blogs/' + id);
 
     const history = useHistory();
     const handleClick = () => {
-        fetch('http://localhost:3002/blogs/' + blog.id, {
+        fetch('https://blog-data-sample.herokuapp.com/blogs/' + blog.id, {
             method: 'DELETE'
         }).then(() => {
             history.push('/');
