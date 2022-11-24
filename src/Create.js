@@ -16,7 +16,7 @@ const Create = () => {
         
         setIsPending(true);
 
-        fetch('http://localhost:3002/blogs',{
+        fetch('https://blog-data-sample.herokuapp.com/blogs',{
             method: 'POST',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify(blog)
